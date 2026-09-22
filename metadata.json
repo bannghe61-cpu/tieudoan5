@@ -1,0 +1,6 @@
+{
+  "name": "Cổng Thông Tin Điện Tử Tiểu Đoàn 5 - Lữ Đoàn 657",
+  "description": "Trang thông tin điện tử trực tuyến của Tiểu đoàn 5, Lữ đoàn 657, Cục Hậu cần - Kỹ thuật Quân khu 7.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
